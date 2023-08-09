@@ -1,5 +1,4 @@
 # LMS  
-[![Django CI](https://github.com/sanjay-thiyagarajan/lms/actions/workflows/django.yml/badge.svg?branch=master)](https://github.com/sanjay-thiyagarajan/lms/actions/workflows/django.yml)  [![Docker](https://github.com/sanjay-thiyagarajan/lms/actions/workflows/docker-publish.yml/badge.svg?branch=master)](https://github.com/sanjay-thiyagarajan/lms/actions/workflows/docker-publish.yml)  
 
 Library Management System
 
@@ -13,7 +12,7 @@ as to avoid conflicts with other projects.
 1. Clone the repository
 
     ```bash
-        $ git clone https://github.com/sanjay-thiyagarajan/lms.git
+        $ git clone https://github.com/JGladwin/lms.git
         $ cd lms
     ```  
 2. 
